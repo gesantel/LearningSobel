@@ -1,5 +1,4 @@
 # Learning Sobel
 
-The goal of this project was to see how well different architectures learn the 2D size 3x3 Sobel filter. The goal was to build a phase diagram on the parameter space with respect to error error. 
+The goal of this project was to see how well different architectures learn the size k Sobel filter for k = 3,5,7,9. We add gaussian noise w/ std deviations sigma =  0,.1, .5, .2. We construct phase diagrams for our architectures on the parameter spaces for k and noise. 
 
-In progress
